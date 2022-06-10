@@ -1,5 +1,5 @@
-name: redhat-enterprise-linux-7-stig-baseline
-title: redhat-enterprise-linux-7-stig-baseline
+name: rhel7-STIG-small-baseline
+title: rhel7-STIG-small-baseline
 maintainer: MITRE SAF Team
 copyright: MITRE, 2020
 copyright_email: saf@groups.mitre.org
